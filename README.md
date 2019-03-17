@@ -28,5 +28,41 @@ $ docker run –d –p 5000:5000 –-name hellowhale ajeetraina/hellowhale
 ```
 
 
-## Example #2 -  Demonstrating Nginx Container Example
+## Example #2 -  How to build Docker Whale Docker Image and push it to DockerHub?
+
+## Cloning the Repository
+
+```
+git clone https://github.com/ajeetraina/hellowhale
+cd hellowhale
+```
+
+## Building the Docker Image
+
+```
+docker build -t ajeetraina/hellowhale1 .
+```
+
+```
+docker tag ajeetraina/hellowhale1 ajeetraina/cutewhale 
+```
+
+## Push it to DockerHub
+
+```
+docker login
+```
+
+```
+docker push ajeetraina/cutewhale 
+```
+
+## Login to another instance and download it and run it.
+
+
+
+
+
+
+
 
