@@ -18,13 +18,13 @@ $ docker image ls
 ## Running Docker Containers
 
 ```
-$ docker run –d –p 5000:5000 –-name hellowhale ajeetraina/hellowhale
+$ docker run –d –p 5000:5000 –-name hellowhale ajeetraina/hellowhale
 ```
 
 ## Stopping the container
       
  ```
- $ docker stop hellowhale (or <container id>)
+  docker stop hellowhale (or <container id>)
 ```
 
 
