@@ -1,5 +1,7 @@
 # Docker VIT Demos & Presentations
 
+Slide: https://www.slideshare.net/ajeetraina/introduction-to-docker-vellor-institute-of-technology
+
 ## Example #1:  Demonstrating Hello Whale Example
 
 
