@@ -1,4 +1,4 @@
-# Docker VIT Demons & Presentations
+# Docker VIT Demos & Presentations
 
 ## Demonstrating Hello Whale Example
 
