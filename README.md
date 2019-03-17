@@ -1,6 +1,6 @@
 # Docker VIT Demos & Presentations
 
-## Demonstrating Hello Whale Example
+## Example #1:  Demonstrating Hello Whale Example
 
 
 ## Pulling Docker Image
@@ -28,4 +28,4 @@ $ docker run –d –p 5000:5000 –-name hellowhale ajeetraina/hellowhale
 ```
 
 
-# Demonstrating Nginx Container Example
+## Example #2 -  Demonstrating Nginx Container Example
