@@ -57,7 +57,7 @@ docker login
 docker push ajeetraina/cutewhale 
 ```
 
-## Login to another instance and download it and run it.
+Time to Login to another instance and download it and run it.
 
 
 
