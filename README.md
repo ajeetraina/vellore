@@ -10,7 +10,7 @@ $ docker pull ajeetraina/hellowhale
 ```
 
 
-## Listing out Docker Images
+## Listing out Docker Images
 ```
 $ docker image ls
 ```
